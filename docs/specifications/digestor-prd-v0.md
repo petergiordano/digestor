@@ -2,7 +2,7 @@ Here’s a **high-level product specification** using the **SLC (Simple, Lovable
 
 ---
 
-## **Product Specification – “Onion Reader”**
+## **Product Specification – “Digestor”**
 
 An app that ingests a user’s newsletters, summarizes them, and presents the content in both text and an **interactive, layered exploration UI**—allowing users to “peel back the onion” from high-level insights to full content, at their chosen depth.
 
