@@ -1,0 +1,19 @@
+{
+  "project": {
+    "name": "digestor",
+    "id": "digestor",
+    "description": "AI-powered automated system",
+    "language": "python",
+    "component_count": 6
+  },
+  "development": {
+    "test_command": "pytest tests/ -v",
+    "lint_command": "flake8 src/",
+    "format_command": "black src/"
+  },
+  "ai_workflow": {
+    "enabled": true,
+    "reference_test_case": "tests/reference/",
+    "validation_required": true
+  }
+}

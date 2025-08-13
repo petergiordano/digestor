@@ -1,0 +1,22 @@
+# Core dependencies for newsletter processing system
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+python-dotenv>=1.0.0
+
+# Email processing
+imaplib2>=0.57
+email-validator>=2.0.0
+
+# AI/ML for summarization
+openai>=1.0.0
+tiktoken>=0.5.0
+
+# Data processing
+pandas>=2.0.0
+feedparser>=6.0.0
+
+# Development and testing
+pytest>=7.0.0
+black>=23.0.0
+flake8>=6.0.0
